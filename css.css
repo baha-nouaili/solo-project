@@ -1,0 +1,63 @@
+body { 
+background-image: url('4.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+} 
+
+h1 { 
+    background-color: white;
+    color :black ; 
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0px;
+    width: 30%;
+    text-align: center;
+    opacity: 0.8;
+    mix-blend-mode: screen;
+    margin-top: 50px;
+    }
+h2 
+{ 
+    color : white ; 
+    font-size : 30px ;
+    text-align: center; 
+    margin-top: 80px;
+
+} 
+p { 
+    color: white ;
+    text-align: center ;
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.premier{
+   border : 5px solid white ;
+   border-radius: 25px;
+   padding-bottom: 70px;
+   margin-top: 30px;
+}
+.deuxieme{ 
+    border : 5px solid white ;
+   border-radius: 25px;
+   padding-bottom: 70px;
+   margin-top: 30px;
+}
+.troisieme {
+    border : 5px solid white ;
+   border-radius: 25px;
+   padding-bottom: 70px;
+   margin-top: 30px; 
+
+}
+.quattro { 
+    border : 5px solid white ;
+   border-radius: 25px;
+   padding-bottom: 70px;
+   margin-top: 30px; 
+}
+.name { 
+    color : white ; 
+    
+}
